@@ -18,6 +18,8 @@ A full-stack task management web application built with **React**, **FastAPI**, 
 
 ---
 
+> **Note:** The backend is hosted on Render's free tier. If it has been inactive, the first request may take 30–60 seconds while the server wakes up.
+
 ## 📖 Project Overview
 
 TaskFlow is a modern task management application that allows users to securely register, log in, and manage their personal tasks. It includes authentication, task priorities, due dates, search, filtering, dark mode, and a responsive dashboard.
