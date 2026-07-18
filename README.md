@@ -12,11 +12,9 @@ A full-stack task management web application built with **React**, **FastAPI**, 
 
 ## 🌐 Live Demo
 
-**Frontend:** *Coming Soon*
+**Frontend:** https://task-flow-dusky-beta.vercel.app
 
-**Backend API:** *Coming Soon*
-
-**Swagger Docs:** *Coming Soon*
+**Backend API:** https://taskflow-production-51ac.up.railway.app/docs
 
 ---
 
